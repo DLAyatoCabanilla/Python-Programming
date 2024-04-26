@@ -1,2 +1,3 @@
 # Python-Programming 100 Days Challenge
-Manifesting Python Programmer <3
+Edit: Updating every week with more projects..
+Manifesting Python Programmer <3 👨🏻‍💻🐍

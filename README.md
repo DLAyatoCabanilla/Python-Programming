@@ -1,3 +1,3 @@
 # Python-Programming 100 Days Challenge
-Edit: Updating every week with more projects..
+Edit: Currently taking on a break from Python..
 Manifesting Python Programmer <3 👨🏻‍💻🐍
